@@ -29,7 +29,7 @@ A continuación, te comparto unas preguntas relacionadas a tu área. Respóndela
 12 - ¿"is None" o "== None", cuál deberías de usar, y por qué? ¿Hay alguna diferencia entre los operadores "==" e "is"?
 
 13 - ¿Cuál sería la salida de este código?
-´´´´
+```
 def f(a,list=[]):
     for i in range(a):
         list.append(i*i)
@@ -38,13 +38,15 @@ def f(a,list=[]):
 f(3)
 f(2,[1,2,3])
 f(2) 
-´´´
+```
 
 14 - En una función, ¿qué significan *args y **kwargs?
 
 15 - ¿Cuál sería la salida de este código?
+```
 list = ['1', '2', '3', '4', '5']
 print (list[12:]) 
+```
 
 16 - Señala algunas diferencias entre Python 2.x y 3.x.
 

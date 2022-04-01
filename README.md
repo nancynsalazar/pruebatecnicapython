@@ -2,7 +2,7 @@
 
 ¡Hola! Gracias por tu interés en ser parte de nuestro Bootcamp de Fundamentos de Python de U Camp.🤖🚀
 
-A continuación, te comparto unas preguntas relacionadas a tu área. Respóndelas de acuerdo a tus conocimientos y experiencia y espero tus respuestas en mi correo nancy.nava@utel.edu.mx a más tardar 3 días naturales después de haberte enviado esta prueba.🤓
+A continuación, te comparto unas preguntas relacionadas a tu área. Respóndelas de acuerdo a tus conocimientos y experiencia y espero tus respuestas en mi correo nancy.nava@utel.edu.mx antes del deadline que te envié en el correo.🤓
 
 1 - Cuéntame brevemente el proceso de ejecución de un archivo Python.
 
